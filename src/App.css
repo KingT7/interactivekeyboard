@@ -23,8 +23,6 @@ button:hover {
     left: 14.1vw;
     width: 70vw;
     height: 25vh;
-    /* Notice we add white-space property. This is to make sure the 'enter' button actually works for the keyboard. Google it
-if you don't understand. */
     white-space: pre-wrap;
 }
 
